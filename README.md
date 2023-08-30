@@ -54,7 +54,7 @@ Few drawbacks are that I could not run the models for more than 5-10 epochs due 
 
 # Improvements:
 Definitely, the models in this notebook can be improved by:
-1. Hyperparameter Tuning: Experiment with different hyperparameters such as learning rate, batch size, and optimizer settings. Utilize techniques like grid search or random search to find the optimal combination of hyperparameters that improves model performance.
+1. Hyperparameter Tuning: Experiment with different hyperparameters such as learning rate, batch size, and optimizer settings.
 
 2. Learning Rate Scheduling: Implement learning rate scheduling techniques, such as step decay or learning rate annealing, to dynamically adjust the learning rate during training. This can help the model converge faster and avoid overshooting.
 
