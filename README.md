@@ -8,7 +8,7 @@ This repository contains code for emotion detection from images using Convolutio
 
 The dataset utilized for this project is obtained from Kaggle. The dataset consists of labeled images that portray different human emotions. The diverse nature of the dataset provides a strong foundation for training our emotion detection models.
 
-## Models Explored
+## Different Techniques Explored
 
 ### 1. Simple CNN Models
 
